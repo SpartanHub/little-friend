@@ -1,19 +1,9 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.png">
+    <!--<img alt="Logo" title="#logo" width="300px" src=".github/logo.png">-->
     <br><br>
-    <b>Adoção de animais segura e responsável perto de você!</b>
+    <b>Atode um bichinho perto de você!</b>
     <br>
 </h3>
-
-<!-- <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
-  <a>
-  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
-  <br><br>
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p> -->
 
 # Índice
 
@@ -46,21 +36,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
-
-## :heavy_check_mark: :computer: Web App
-
-- O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
-
-<h1 align="center">
-    <img alt="Web" src=".github/Video.gif" width="900px">
-</h1>
-
-## :heavy_check_mark: :iphone: Mobile App
-
-<h1 align="center">
-    <img alt="Mobile Home" src=".github/Home.png" width="300px">
-    <img alt="Mobile Detail" src=".github/Detail.svg" width="300px">
-</h1>
 
 <a id="como-usar"></a>
 
