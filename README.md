@@ -16,19 +16,19 @@
 
 <a id="sobre"></a>
 
-## :bookmark: Sobre
+## :bookmark:  Sobre
 
 O <strong>Litle Friend</strong> é uma aplicação Web e Mobile para conectar doadores de animais a pessoas interessadas em fazer um amigo pet.
 
 <a id="tutorial"></a>
 
-## :dart: (Em Breve) Como Construir Este App do Zero
+## :dart:  (Em Breve) Como Construir Este App do Zero
 
 Este pode encontar o passo a passo completo para desenvolver este app na trilha **[Web Spartan](https://www.spartandev.com.br/webspartan)** distribuída gratuitamente por [Jimmy Bastos](https://github.com/jimmybastos) aqui da [Spartan Dev.](https://www.spartandev.com.br).
 
 <a id="tecnologias-utilizadas"></a>
 
-## :rocket: Tecnologias Utilizadas
+## :rocket:  Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -39,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a id="como-usar"></a>
 
-## :fire: Configurando o Ambiente de Desenvolvimento
+## :fire:  Configurando o Ambiente de Desenvolvimento
 
 - ### **Pré-requisitos**
 
@@ -78,7 +78,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a id="como-contribuir"></a>
 
-## :dog: Contribua
+## :dog:  Contribua
 
 - Faça um Fork desse repositório
 - Clone o repositório
@@ -89,12 +89,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Comite suas mudanças: `git commit -m 'feat: Breve descrição da feature'`
 - Envie a feature: `git push origin nome-da-feature`
 
-## :memo: License
+## :memo:  License
 
 Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/jimmybastos" target="_blank">Jimmy Bastos</a>
+    Feito com 💜  by <a href="https://www.linkedin.com/in/jimmybastos" target="_blank">Jimmy Bastos</a>
 </h4>
